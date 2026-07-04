@@ -175,4 +175,4 @@ By treating SQL as a maintainable and well-governed analytical asset rather than
 
 # Disclaimer
 
-**Maji Ndogo** is a fictional country created for educational purposes as part of the ALX Data Analytics Bootcamp. Any resemblance to real countries, organisations, or events is purely coincidental.
+**Maji Ndogo** is a fictional country created for educational purposes as part of the ALX Data Analytics Bootcamp.
