@@ -112,7 +112,9 @@ The analysis follows a structured workflow designed to mirror professional analy
 
 │    ├── business_rules/
 
-│    ├── data_dictionary/
+│    ├── data_dictionaries/
+
+|    ├── requirements/ 
 
 │    └── transformation_register.md
 
