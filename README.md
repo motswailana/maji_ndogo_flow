@@ -1,6 +1,6 @@
 # Maji Ndogo Water Infrastructure Analysis
 
-### ALX Data Analytics Bootcamp – SQL Project
+### ALX Data Analytics – SQL Project
 
 ## Project Overview
 
