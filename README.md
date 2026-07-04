@@ -124,7 +124,7 @@ The analysis follows a structured workflow designed to mirror professional analy
 
 |    └── query_results/
 
-├── scripts/
+├── sql_library/
 
 |    ├── analysis/
 
