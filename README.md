@@ -106,31 +106,31 @@ The analysis follows a structured workflow designed to mirror professional analy
 
 ├── datasetss/
 
-|── docs/
+├── docs/
 
-│   ├── assumptions/
+│    ├── assumptions/
 
-│   ├── business_rules/
+│    ├── business_rules/
 
-│   ├── data_dictionary/
+│    ├── data_dictionary/
 
-│   └── transformation_register.md
+│    └── transformation_register.md
 
 ├── outputs/
 
-│   ├── visualisations/
+│    ├── visualisations/
 
-|   └── query_results/
+|    └── query_results/
 
 ├── scripts/
 
-|     ├── analysis/
+|    ├── analysis/
 
-|     ├── data_quality_checks/
+|    ├── data_quality_checks/
 
-|     ├── stored_procedures
+|    ├── stored_procedures
 
-|     ├── validation
+|    ├── validation
 
 └──   views
 
