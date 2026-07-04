@@ -118,21 +118,21 @@ The analysis follows a structured workflow designed to mirror professional analy
 
 ├── outputs/
 
-│   └── query_results/
+│   ├── visualisations/
 
-|   |── visualisations/
+|   └── query_results/
 
-│───scripts/
+├── scripts/
 
-|   |── analysis/
+|     ├── analysis/
 
-|   |── data_quality_checks/
+|     ├── data_quality_checks/
 
-|   |── stored_procedures
+|     ├── stored_procedures
 
-|   |── validation
+|     ├── validation
 
-└── |── views
+└──   views
 
 
 
